@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 佳人</title>
-    <link>https://userluckytian.github.io/tags/</link>
+    <link>https://zhuzhu-coding.vercel.app/tags/</link>
     <description>Recent content in Tags on 佳人</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://userluckytian.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://zhuzhu-coding.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>development</title>
-      <link>https://userluckytian.github.io/tags/development/</link>
+      <link>https://zhuzhu-coding.vercel.app/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://userluckytian.github.io/tags/development/</guid>
+      <guid>https://zhuzhu-coding.vercel.app/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://userluckytian.github.io/tags/go/</link>
+      <link>https://zhuzhu-coding.vercel.app/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://userluckytian.github.io/tags/go/</guid>
+      <guid>https://zhuzhu-coding.vercel.app/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://userluckytian.github.io/tags/golang/</link>
+      <link>https://zhuzhu-coding.vercel.app/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://userluckytian.github.io/tags/golang/</guid>
+      <guid>https://zhuzhu-coding.vercel.app/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://userluckytian.github.io/tags/hugo/</link>
+      <link>https://zhuzhu-coding.vercel.app/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://userluckytian.github.io/tags/hugo/</guid>
+      <guid>https://zhuzhu-coding.vercel.app/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>https://userluckytian.github.io/tags/templates/</link>
+      <link>https://zhuzhu-coding.vercel.app/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://userluckytian.github.io/tags/templates/</guid>
+      <guid>https://zhuzhu-coding.vercel.app/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://userluckytian.github.io/tags/themes/</link>
+      <link>https://zhuzhu-coding.vercel.app/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://userluckytian.github.io/tags/themes/</guid>
+      <guid>https://zhuzhu-coding.vercel.app/tags/themes/</guid>
       <description></description>
     </item>
     
