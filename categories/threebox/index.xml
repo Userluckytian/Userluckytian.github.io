@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ThreeBox on /images/me/title1.png</title>
+    <link>https://userluckytian.github.io/categories/threebox/</link>
+    <description>Recent content in ThreeBox on /images/me/title1.png</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://userluckytian.github.io/categories/threebox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ThreeBox 构建弧线</title>
+      <link>https://userluckytian.github.io/2023/threebox-%E6%9E%84%E5%BB%BA%E5%BC%A7%E7%BA%BF/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://userluckytian.github.io/2023/threebox-%E6%9E%84%E5%BB%BA%E5%BC%A7%E7%BA%BF/</guid>
+      <description>官网示例的效果图： 代码见参考文献（1） 代码解读（以构建一条弧线为例）： 概述（整体思路）： （1）明确要生成几个点，下面代码是假设生成25个点。（2）先生成x坐标和y坐标，以及随机生成一个高度值。下面代码是中有写这部分实现方式。（3）根据sin正弦定理，[0,180]对应的sin值得区间为[0, 1]。Math.PI 除了等于3.1415...之外，还可以看作是Π，一周的弧度是2Π。所以Π是180度。（4）通过sin值 乘以 高度 构建每个点位的Z轴值。（5）然后收集整理全部坐标即可！ 参考坐标图： 红色代表坐标轴， 黑色的点代表在xy轴上的每个【x，y】点， 黄色线是将x, y轴的各个点连接起来的连接线， 绿色线即构建之后的弧线， 浅墨绿色的线是每个黑点 乘以 最大高度得到的高度线。 代码块: buildOneArcLine(){ let line = new Array(); // 假设我们构建25个点 let arcSegments = 25; // 目标范围 [[-150，150], [-70, 70]]，下面假设 destination = [40, 60]; let destination = [300 * (Math.random() - 0.5), 140 * (Math.random() - 0.5)]; // 每条线的最大高度，是个常量,内部算法可不用在意, 下面假设 maxElevation = height let maxElevation = Math.pow(Math.abs(destination[0] * destination[1]), 0.5) * 80000; // 则下面的语句会得到： [40, 60] ==》 [1.</description>
+    </item>
+    
+  </channel>
+</rss>
